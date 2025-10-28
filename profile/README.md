@@ -46,7 +46,7 @@ Para a realização do projeto, foram utilizados as tecnologias:
 
 ## Objetivo 
 
-O objetivo do projeto é facilitar a visualização de lojas e seus produtos no mercado, oferecendo assim um ambiente simples de usar aos usuarios, tanto para quem deseja preucurar produtos tanto para quem deseja mostrar suas lojas.
+O objetivo do projeto é facilitar a visualização de lojas e seus produtos no mercado, oferecendo um ambiente simples e intuitivo tanto para os usuários que desejam procurar produtos, quanto para aqueles que desejam divulgar suas lojas.
 
 ## Funcionalidades
 
