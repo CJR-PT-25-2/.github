@@ -1,4 +1,4 @@
-<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/ee4a05b2-e82c-4de6-b56a-026fea24798f" /># ClickEstoque.io
+## ClickEstoque.io
 
 ## Sobre 
 
