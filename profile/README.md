@@ -1,4 +1,4 @@
-## ClickEstoque.io
+
 <p align="center">
   <img src= "LOGO2.png" heigth = "300px">
 </p>
