@@ -59,7 +59,7 @@ O objetivo do projeto é facilitar a visualização de lojas e seus produtos no 
 - Excluir suas própias lojas e produtos
 - Excluir completamente seu perfil da plataforma
 
-- ## Como Executar
+## Como Executar
    
 1. Clone o repositório:
   ```bash
